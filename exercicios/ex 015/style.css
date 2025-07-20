@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+            background-color: darkslateblue; 
+            text-align: center;
+            
+        }
+        h1 {
+            color: gold; 
+            text-align: center;
+        }
+        h2 {
+            color:mediumvioletred; 
+            text-align: center;
+        }
+        p {
+            color:aquamarine;
+            text-align: center;
+        }
+        a {
+            color: chartreuse;
+        }
